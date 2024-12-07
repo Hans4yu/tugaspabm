@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658957925830",
+    "project_id": "chatsederhana-flutter",
+    "storage_bucket": "chatsederhana-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658957925830:android:bcd24690ed0224679346c7",
+        "android_client_info": {
+          "package_name": "com.example.chatsederhana_mzaid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCML5GGK847V1kgar-_rNn9W_QfQmO-DvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
